@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/orderchampass/static/css/main.80d7407f.css",
+    "main.js": "/orderchampass/static/js/main.a689b96a.js",
+    "static/js/787.3bed6155.chunk.js": "/orderchampass/static/js/787.3bed6155.chunk.js",
+    "index.html": "/orderchampass/index.html",
+    "main.80d7407f.css.map": "/orderchampass/static/css/main.80d7407f.css.map",
+    "main.a689b96a.js.map": "/orderchampass/static/js/main.a689b96a.js.map",
+    "787.3bed6155.chunk.js.map": "/orderchampass/static/js/787.3bed6155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80d7407f.css",
+    "static/js/main.a689b96a.js"
+  ]
+}
